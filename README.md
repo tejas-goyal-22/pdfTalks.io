@@ -14,4 +14,4 @@ pdfTalks.io - A generative ai application that allows you to upload multiple pdf
 2. Financial Analysis and Feedback.
 
 ## Need Help ?
-Contact me at @tejasgoyal72@gmail.com
+Contact me at tejasgoyal72@gmail.com
